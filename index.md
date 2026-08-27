@@ -11,12 +11,15 @@ Ruiz — **solevracorp@gmail.com**
 
 Tant que l'application reste opérée par une seule personne, ce responsable est par défaut le développeur de l'application.
 
-## 2. Quelles données nous collectons
+## 2. Quelles données nous collectons / traitons
 
-BakeQuest ne collecte directement aucune donnée permettant de vous identifier.
-L'application ne nécessite pas la création d'un compte et ne nous transmet pas votre nom, votre adresse courriel ou vos informations de paiement. Certains services tiers intégrés à l'application, notamment Google AdMob et RevenueCat, peuvent toutefois traiter certaines données techniques nécessaires à leurs services.
+BakeQuest ne collecte directement aucune information permettant de vous identifier personnellement. L'application ne nécessite pas la création d'un compte et ne nous transmet pas votre nom, votre adresse courriel ou vos informations de paiement.
 
-L'application ne demande pas de créer de compte, n'exige pas d'adresse courriel et ne collecte pas ton nom, ta localisation ou tout autre identifiant personnel.
+Progression dans l'application : les XP, séries de jours, leçons et quiz terminés sont stockés localement sur votre appareil et ne sont pas transmis à nos serveurs.
+Achats intégrés et statut premium : les achats sont effectués par Apple ou Google et leur statut est géré par RevenueCat. RevenueCat peut traiter un identifiant utilisateur anonyme généré par son SDK ainsi que les informations nécessaires concernant les achats et abonnements. Nous n'avons jamais accès à vos informations bancaires ou de carte de paiement.
+Publicité : BakeQuest utilise Google AdMob pour afficher des publicités aux utilisateurs non premium. Google Mobile Ads peut traiter certaines données techniques, notamment l'adresse IP, des identifiants d'appareil ou publicitaires, des informations sur les publicités affichées, certaines interactions avec l'application, ainsi que des données de diagnostic et de performance.
+
+Ces données sont traitées conformément aux politiques de confidentialité des fournisseurs concernés.
 
 - **Progression dans l'application** (XP, série de jours, leçons/quiz terminés, statut premium) : stockée uniquement sur ton appareil, jamais transmise à nos serveurs. Elle est supprimée à la désinstallation ou via « Réinitialiser la progression » dans les paramètres.
 - **Achats intégrés** : gérés par Apple/Google et validés via RevenueCat. Nous ne voyons jamais tes informations de paiement.
@@ -30,7 +33,15 @@ L'application ne demande pas de créer de compte, n'exige pas d'adresse courriel
 
 ## 4. Partage des données
 
-Nous ne vendons aucune donnée personnelle. Certains renseignements peuvent toutefois être traités par les fournisseurs tiers nécessaires au fonctionnement de l'application : Apple ou Google pour les achats et la distribution, RevenueCat pour la gestion et la validation des achats intégrés, et Google AdMob pour l'affichage des publicités.
+Nous ne vendons aucune donnée personnelle.
+
+Certaines données peuvent toutefois être traitées par des fournisseurs tiers nécessaires au fonctionnement de BakeQuest :
+
+Apple / Google : distribution de l'application et traitement des achats intégrés ;
+RevenueCat : gestion et validation du statut des achats et abonnements ;
+Google AdMob : diffusion et mesure des publicités.
+
+Ces fournisseurs traitent les données conformément à leurs propres politiques de confidentialité.
 
 ## 5. Confidentialité des enfants
 
