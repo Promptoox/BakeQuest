@@ -4,7 +4,7 @@
 
 ## 1. Qui sommes-nous
 
-L'application **BakeQuest** ("l'application", "nous") est éditée par Ruiz, basé à Montréal, Québec, Canada.
+L'application **BakeQuest** ("l'application", "nous") est éditée par Ruiz Clément, basé à Montréal, Québec, Canada.
 
 **Responsable de la protection des renseignements personnels** (tel que requis par la Loi 25 du Québec) :  
 Ruiz — **solevracorp@gmail.com**
@@ -13,13 +13,14 @@ Tant que l'application reste opérée par une seule personne, ce responsable est
 
 ## 2. Quelles données nous collectons
 
-**Directement, nous ne collectons aucune donnée personnelle.**
+BakeQuest ne collecte directement aucune donnée permettant de vous identifier.
+L'application ne nécessite pas la création d'un compte et ne nous transmet pas votre nom, votre adresse courriel ou vos informations de paiement. Certains services tiers intégrés à l'application, notamment Google AdMob et RevenueCat, peuvent toutefois traiter certaines données techniques nécessaires à leurs services.
 
 L'application ne demande pas de créer de compte, n'exige pas d'adresse courriel et ne collecte pas ton nom, ta localisation ou tout autre identifiant personnel.
 
 - **Progression dans l'application** (XP, série de jours, leçons/quiz terminés, statut premium) : stockée uniquement sur ton appareil, jamais transmise à nos serveurs. Elle est supprimée à la désinstallation ou via « Réinitialiser la progression » dans les paramètres.
 - **Achats intégrés** : gérés par Apple/Google et validés via RevenueCat. Nous ne voyons jamais tes informations de paiement.
-- **Publicité** : diffusée par Google AdMob (sauf pour les utilisateurs premium). Google peut collecter un identifiant publicitaire de ton appareil. Consulte la [politique de confidentialité de Google](https://policies.google.com/privacy).
+- **Publicité** : diffusée par Google AdMob (sauf pour les utilisateurs premium). Google peut traiter certaines données techniques liées à l'appareil et à l'utilisation du service publicitaire, telles que des identifiants publicitaires, l'adresse IP ou d'autres identifiants, conformément à sa politique de confidentialité. Consulte la [politique de confidentialité de Google] (https://policies.google.com/privacy).
 
 ## 3. Publicité et suivi
 
@@ -29,7 +30,7 @@ L'application ne demande pas de créer de compte, n'exige pas d'adresse courriel
 
 ## 4. Partage des données
 
-Aucune vente ni partage de données personnelles, à l'exception des fournisseurs nécessaires au fonctionnement : Apple/Google (achats, distribution), RevenueCat (validation des achats) et Google AdMob (publicité).
+Nous ne vendons aucune donnée personnelle. Certains renseignements peuvent toutefois être traités par les fournisseurs tiers nécessaires au fonctionnement de l'application : Apple ou Google pour les achats et la distribution, RevenueCat pour la gestion et la validation des achats intégrés, et Google AdMob pour l'affichage des publicités.
 
 ## 5. Confidentialité des enfants
 
